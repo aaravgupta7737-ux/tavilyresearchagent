@@ -1,0 +1,6 @@
+{
+  "name": "Tavily Research Agent",
+  "description": "Autonomous web research agent with multi-step query decomposition, live search grounding, source verification, and citation-backed synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
